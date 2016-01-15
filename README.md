@@ -6,7 +6,7 @@
 
 **Fork and Clone:**
 
-- `Fork` this repository to you own github profile
+- `Fork` this repository to your own Github profile
 - Copy the repo URL **from your profile**
 - At the Cli `$ git clone https://github.com/[YOUR GITHUB HANDLE]/Spec_runner`
 
@@ -19,6 +19,6 @@
 - Complete the functions in `exercises/rawstrings.js` to make the tests pass
 - **Make a `$ git commit` after each test passed**
 
-**NOTE: You may view the tests cases in `spec/rawstrings.spec.js`**
+**NOTE: You may view the tests cases in `spec/rawstrings.spec.js` but do not alter ANY code.**
 
 ABC!!! (Always Be Coding)
