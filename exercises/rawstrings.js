@@ -9,11 +9,13 @@ only use variables/paramenters if given.
 Feel free to use any string methods you wish.
 */
 
-// Gives back ("returns") the fourth letter in a string
+// Gives back ("returns") the fourth letter in the string
 var printLetter1 = function () { 
-  'print the fourth letter in this string'[3];
+  console.log('sdjfsjdklfhjksdf');
+  // You will need this string
+  
 
-  return
+  return 'print the fourth letter in this string';
 };
 
 /*
