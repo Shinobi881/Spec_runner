@@ -13,9 +13,9 @@ Feel free to use any string methods you wish.
 var printLetter1 = function () { 
   console.log('sdjfsjdklfhjksdf');
   // You will need this string
-  
+  console.log('print the fourth letter in this string'[3]);
 
-  return 'print the fourth letter in this string';
+  return 'print the fourth letter in this string'[3];
 };
 
 /*
